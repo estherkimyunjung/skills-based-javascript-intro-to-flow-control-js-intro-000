@@ -59,4 +59,4 @@ basicTeenager(15);
 teenager(20);
 ageChecker(30);
 ternaryTeenager(19);
-switchAge(60);
+switchAge(15);
