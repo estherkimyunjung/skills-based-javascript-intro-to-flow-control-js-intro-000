@@ -26,3 +26,4 @@ function switchAge(age) {
 }
 
 basicTeenager(15);
+teenager(20);
