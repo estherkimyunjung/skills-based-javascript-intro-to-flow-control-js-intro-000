@@ -10,7 +10,6 @@ function teenager(age) {
   } else {
     console.log("You are not a teenager")
   }
-
 }
 
 function ageChecker(age) {
