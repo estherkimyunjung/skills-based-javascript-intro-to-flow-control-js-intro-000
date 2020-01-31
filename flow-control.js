@@ -28,7 +28,10 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
-
+  case(13):
+    console.log();
+    break;
+    
 }
 
 basicTeenager(15);
